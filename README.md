@@ -1,7 +1,25 @@
 openbook
 ========
 官网http://open1book.com
+
 微博http://weibo.com/openebook
+
+第一期：
+
+第二期：
+
+第三期:
+
+第四期:
+
+第五期:
+
+第六期：
+
+第七期：[下载链接](https://github.com/open1book/openbook/raw/master/OPENBOOK%E5%BC%80%E6%BA%90%E6%9D%82%E5%BF%972014%E7%AC%AC%E4%B8%83%E6%9C%9F.pdf)
+
+第八期：
+
 
 其实，这是一件很普通的事：有了一份开源期刊，叫《openbook》。
 
