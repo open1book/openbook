@@ -4,9 +4,17 @@ openbook
 
 微博http://weibo.com/openebook
 
-第一期：[下载链接](https://github.com/open1book/openbook/raw/master/openbook%E5%BC%80%E6%BA%90%E6%9D%82%E5%BF%972013%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E6%9C%9F.pdf)     第二期：[下载链接](https://github.com/open1book/openbook/raw/master/openbook%E5%BC%80%E6%BA%90%E6%9D%82%E5%BF%972013%E7%AC%AC%E4%BA%8C%E6%9C%9F.pdf)     第三期:[下载链接](https://github.com/open1book/openbook/raw/master/openbook%E5%BC%80%E6%BA%90%E6%9D%82%E5%BF%972013%E5%B9%B4%E7%AC%AC%E4%B8%89%E6%9C%9F-%E6%A0%A1%E5%AF%B9%E7%89%88.pdf)     第四期:[下载链接](https://github.com/open1book/openbook/raw/master/openbook%E5%BC%80%E6%BA%90%E6%9D%82%E5%BF%972013%E5%B9%B4%E7%AC%AC%E5%9B%9B%E6%9C%9F.pdf)
+第一期：[下载链接](https://github.com/open1book/openbook/raw/master/openbook%E5%BC%80%E6%BA%90%E6%9D%82%E5%BF%972013%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E6%9C%9F.pdf)     
+第二期：[下载链接](https://github.com/open1book/openbook/raw/master/openbook%E5%BC%80%E6%BA%90%E6%9D%82%E5%BF%972013%E7%AC%AC%E4%BA%8C%E6%9C%9F.pdf)     
+第三期:[下载链接](https://github.com/open1book/openbook/raw/master/openbook%E5%BC%80%E6%BA%90%E6%9D%82%E5%BF%972013%E5%B9%B4%E7%AC%AC%E4%B8%89%E6%9C%9F-%E6%A0%A1%E5%AF%B9%E7%89%88.pdf)     第四期:[下载链接](https://github.com/open1book/openbook/raw/master/openbook%E5%BC%80%E6%BA%90%E6%9D%82%E5%BF%972013%E5%B9%B4%E7%AC%AC%E5%9B%9B%E6%9C%9F.pdf)
 
-第五期:[下载链接](https://github.com/open1book/openbook/raw/master/openbook%E5%BC%80%E6%BA%90%E6%9D%82%E5%BF%972013%E5%B9%B4%E7%AC%AC%E4%BA%94%E6%9C%9F.pdf)     第六期：[下载链接](https://github.com/open1book/openbook/raw/master/openbook%E5%BC%80%E6%BA%90%E6%9D%82%E5%BF%972013%E5%B9%B4%E7%AC%AC%E5%85%AD%E6%9C%9F.pdf)      第七期：[下载链接](https://github.com/open1book/openbook/raw/master/OPENBOOK%E5%BC%80%E6%BA%90%E6%9D%82%E5%BF%972014%E7%AC%AC%E4%B8%83%E6%9C%9F.pdf)         第八期：[下载链接](https://github.com/open1book/openbook/raw/master/openbook%E5%BC%80%E6%BA%90%E6%9D%82%E5%BF%972014%E7%AC%AC%E5%85%AB%E6%9C%9F.pdf)
+第五期:[下载链接](https://github.com/open1book/openbook/raw/master/openbook%E5%BC%80%E6%BA%90%E6%9D%82%E5%BF%972013%E5%B9%B4%E7%AC%AC%E4%BA%94%E6%9C%9F.pdf)     
+
+第六期：[下载链接](https://github.com/open1book/openbook/raw/master/openbook%E5%BC%80%E6%BA%90%E6%9D%82%E5%BF%972013%E5%B9%B4%E7%AC%AC%E5%85%AD%E6%9C%9F.pdf)      
+
+第七期：[下载链接](https://github.com/open1book/openbook/raw/master/OPENBOOK%E5%BC%80%E6%BA%90%E6%9D%82%E5%BF%972014%E7%AC%AC%E4%B8%83%E6%9C%9F.pdf)         
+
+第八期：[下载链接](https://github.com/open1book/openbook/raw/master/openbook%E5%BC%80%E6%BA%90%E6%9D%82%E5%BF%972014%E7%AC%AC%E5%85%AB%E6%9C%9F.pdf)
 
 
 其实，这是一件很普通的事：有了一份开源期刊，叫《openbook》。
