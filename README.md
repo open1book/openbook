@@ -1,6 +1,6 @@
 openbook
 ========
-官网http://open1book.com
+官网http://obook.cc
 
 微博http://weibo.com/openebook
 
