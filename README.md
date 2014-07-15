@@ -21,6 +21,7 @@ openbook
 
 第八期：[下载链接](https://github.com/open1book/openbook/raw/master/openbook%E5%BC%80%E6%BA%90%E6%9D%82%E5%BF%972014%E7%AC%AC%E5%85%AB%E6%9C%9F.pdf)
 
+第九期：[下载地址](https://github.com/open1book/openbook/raw/master/openbook%E5%BC%80%E6%BA%90%E6%9D%82%E5%BF%972014%E7%AC%AC%E4%B9%9D%E6%9C%9F.pdf)
 
 # 开源杂志
 
