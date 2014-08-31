@@ -1,7 +1,7 @@
 openbook
 ========
 
-官网http://obook.cc
+官网http://oszine.com
 
 微博http://weibo.com/openebook
 
